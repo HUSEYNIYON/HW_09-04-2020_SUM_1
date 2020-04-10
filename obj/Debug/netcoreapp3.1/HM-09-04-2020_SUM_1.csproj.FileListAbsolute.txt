@@ -1,0 +1,11 @@
+C:\HM-09-04-2020_SUM_1\bin\Debug\netcoreapp3.1\HM-09-04-2020_SUM_1.exe
+C:\HM-09-04-2020_SUM_1\bin\Debug\netcoreapp3.1\HM-09-04-2020_SUM_1.deps.json
+C:\HM-09-04-2020_SUM_1\bin\Debug\netcoreapp3.1\HM-09-04-2020_SUM_1.runtimeconfig.json
+C:\HM-09-04-2020_SUM_1\bin\Debug\netcoreapp3.1\HM-09-04-2020_SUM_1.runtimeconfig.dev.json
+C:\HM-09-04-2020_SUM_1\bin\Debug\netcoreapp3.1\HM-09-04-2020_SUM_1.dll
+C:\HM-09-04-2020_SUM_1\bin\Debug\netcoreapp3.1\HM-09-04-2020_SUM_1.pdb
+C:\HM-09-04-2020_SUM_1\obj\Debug\netcoreapp3.1\HM-09-04-2020_SUM_1.csprojAssemblyReference.cache
+C:\HM-09-04-2020_SUM_1\obj\Debug\netcoreapp3.1\HM-09-04-2020_SUM_1.AssemblyInfoInputs.cache
+C:\HM-09-04-2020_SUM_1\obj\Debug\netcoreapp3.1\HM-09-04-2020_SUM_1.AssemblyInfo.cs
+C:\HM-09-04-2020_SUM_1\obj\Debug\netcoreapp3.1\HM-09-04-2020_SUM_1.dll
+C:\HM-09-04-2020_SUM_1\obj\Debug\netcoreapp3.1\HM-09-04-2020_SUM_1.pdb
