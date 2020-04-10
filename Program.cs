@@ -37,6 +37,12 @@ namespace HM_09_04_2020_SUM_1
             Console.WriteLine("The document is saved in the old format, saving in other formats is available in the Expert version");
         }
     }
-    
+    class ExpertDocumentWorker:ProDocumentWorker
+    {
+        public override void SaveDocument()
+        {
+            Console.WriteLine("The document is saved in a new format");//Документ сохранен в новом формате 
+        }
+    }
     }
 }
