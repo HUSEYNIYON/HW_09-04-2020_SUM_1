@@ -3,14 +3,16 @@ namespace HM_09_04_2020_SUM_1
 {
     class Program
     {
+        private const string KeyForPRO_License="pro";
+        private const string KeyForEXP_License="exp";
         static void Main(string[] args)
         {
             DocumentWorker dw;
             Console.Write("Enter the key:");
             string key =Console.ReadLine();
-            if (key=="pro")
+            if (key==KeyForPRO_License)
                 dw = new ProDocumentWorker();
-            else if (key=="exp")
+            else if (key==KeyForEXP_License)
                 dw = new ExpertDocumentWorker();
             else
                 dw = new DocumentWorker();
@@ -24,7 +26,6 @@ namespace HM_09_04_2020_SUM_1
         public void OpenDocument() => Console.WriteLine("Document open");
         public virtual void EditDocument() => Console.WriteLine("Document editing is available in version PRO");
         public virtual void SaveDocument() => Console.WriteLine("Saving a document is available in version PRO");
-       
     }
     class ProDocumentWorker: DocumentWorker
     {
